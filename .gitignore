@@ -2,6 +2,7 @@
 **/.terraform/*
 **/Core/.terraform/*
 **/DC/.terraform/*
+**/Client-Servers/.terraform/*
 
 # .tfstate files
 *.tfstate
